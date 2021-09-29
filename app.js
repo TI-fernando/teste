@@ -7,3 +7,6 @@ console.log("git config user.name - adiciona o nome do usuario");
 console.log("git config user.email - adiciona o email do usuario");
 console.log("git push origin master - manda a documentação para o repositorio remoto");
 console.log("git remote add + a url - adiciona o repositorio remoto");
+console.log("git push origin master - Envia os arquivos para o repositorio remoto");
+console.log("git clone + a url - baixa os arquivos do repositorio escolhido pelo usuario");
+console.log("git pull origin master - vai baixar somente os arquivos que sofreram alteração");
